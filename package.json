@@ -1,0 +1,16 @@
+{
+  "name": "arangodb_enron",
+  "version": "1.0.0",
+  "description": "Loader for Enron Dataset to ArangoDB",
+  "main": "import_enron.js",
+  "dependencies": {
+    "arangojs": "^5.8.0",
+    "mailparser": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Fischer",
+  "license": "MIT"
+}
